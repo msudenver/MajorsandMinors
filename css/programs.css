@@ -1,0 +1,92 @@
+
+.filter {
+  background-color: #fff;
+  padding: 20px;
+  box-shadow: 0 1px 6px rgba(0, 0, 0, .175);
+  //margin-top: -155px;
+}
+.pageTitle {
+  height:200px;
+  padding-left: 15px;
+  font-size: 3rem;
+font-weight:200;
+background: url (http://placehold.it/1200x250) center top;
+}
+
+h2 {
+  color: #00447c;
+  font-weight: 200;
+}
+
+
+.card hr {
+  border-top: 1.5px solid rgb(209, 18, 66);
+  margin-top: 5px !important;
+  margin-bottom: 5px !important;
+}
+
+
+.card {
+background: white;
+padding: 1em;
+border: 1px solid #d4d4d4;
+position: relative;
+-webkit-box-shadow: 0 1px 6px rgba(0, 0, 0, 0.175);
+box-shadow: 0 1px 6px rgba(0, 0, 0, 0.175);
+margin-bottom: 15px;
+height: 100px;
+}
+
+.card:hover {
+background-color:#FAFAFA;
+}
+
+
+.degreeTitle {
+color: #00447c;
+font-size: 1.3em;
+font-weight: 200;
+}
+
+.degreeType {
+  font-size: 1.2em;
+  font-weight: 100;
+  color: black;
+}
+.content {
+background: none !important;
+}
+
+.card hr.master {
+border-top: 1.5px solid rgb(209, 18, 66);
+margin-top: 5px !important;
+margin-bottom: 5px !important;
+}
+
+.card hr.minor {
+border-top: 1.5px solid #204E6C;
+margin-top: 5px !important;
+margin-bottom: 5px !important;
+}
+
+.card hr.certificate {
+border-top: 1.5px solid #204E6C;
+margin-top: 5px !important;
+margin-bottom: 5px !important;
+}
+
+.card hr.bachelor {
+border-top: 1.5px solid #204E6C;
+margin-top: 5px !important;
+margin-bottom: 5px !important;
+}
+
+.card hr.nodecription {
+border-top: 1.5px solid #204E6C;
+margin-top: 5px !important;
+margin-bottom: 5px !important;
+}
+
+.card p.college {
+font-size: 1.2em;
+}
